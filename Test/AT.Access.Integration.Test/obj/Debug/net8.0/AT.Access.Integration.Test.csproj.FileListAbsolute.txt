@@ -1,0 +1,8 @@
+C:\AAGitRepos\abstra\Abstra\Test\AT.Access.Integration.Test\bin\Debug\net8.0\.msCoverageSourceRootsMapping_AT.Access.Integration.Test
+C:\AAGitRepos\abstra\Abstra\Test\AT.Access.Integration.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_AT.Access.Integration.Test
+C:\AAGitRepos\abstra\Abstra\Test\AT.Access.Integration.Test\obj\Debug\net8.0\AT.Access.Integration.Test.csproj.AssemblyReference.cache
+C:\AAGitRepos\abstra\Abstra\Test\AT.Access.Integration.Test\obj\Debug\net8.0\AT.Access.Integration.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\AAGitRepos\abstra\Abstra\Test\AT.Access.Integration.Test\obj\Debug\net8.0\AT.Access.Integration.Test.AssemblyInfoInputs.cache
+C:\AAGitRepos\abstra\Abstra\Test\AT.Access.Integration.Test\obj\Debug\net8.0\AT.Access.Integration.Test.AssemblyInfo.cs
+C:\AAGitRepos\abstra\Abstra\Test\AT.Access.Integration.Test\obj\Debug\net8.0\AT.Access.Integration.Test.csproj.CoreCompileInputs.cache
+C:\AAGitRepos\abstra\Abstra\Test\AT.Access.Integration.Test\obj\Debug\net8.0\AT.Access.Integration.Test.sourcelink.json
